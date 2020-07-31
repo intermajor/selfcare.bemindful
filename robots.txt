@@ -2,5 +2,5 @@
 title: robots
 ---
 User-agent: *
-Disallow: /
-Sitemap: <{{site.url}}/sitemap.xml>
+Allow: /
+Sitemap: https://selfcare.bemindful.co.kr/sitemap.xml
