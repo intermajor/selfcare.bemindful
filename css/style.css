@@ -27,8 +27,9 @@
 .more-info .more-info-innerwrap .sns-wrap .sns .sns-pic {width:50%; margin: 40px auto 0;}
 .more-info .more-info-innerwrap .sns-wrap .sns .sns-pic img {width: 100%;}
 .more-info .more-info-innerwrap .sns-wrap .sns .cap { position: absolute; width: 80%; bottom: 0; padding: 10%; background: linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.9) 70%);}
-.more-info .more-info-innerwrap .sns-wrap .sns .cap .title { width: 100%; }
-.more-info .more-info-innerwrap .sns-wrap .sns .cap .txt {height: 21px; padding-top: 5px; }
+.more-info .more-info-innerwrap .sns-wrap .sns .cap .title { height: 12px;  }
+.more-info .more-info-innerwrap .sns-wrap .sns .cap .title img { width: auto; height: 100%; }
+.more-info .more-info-innerwrap .sns-wrap .sns .cap .txt {height: 20px; padding-top: 12px; }
 .more-info .more-info-innerwrap .sns-wrap .sns .cap .txt img { width: auto; height: 100%; }
 
 .more-info .more-info-innerwrap .sns-wrap .sns-cafe {background:url(../images/sns-01.jpg) no-repeat 40%; background-size:cover;}
