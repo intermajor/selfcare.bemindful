@@ -5,6 +5,7 @@ body, div, span, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,abbr,
 body, input, select, textarea, button {font-family: 'Noto Sans KR','sans-serif','Apple SD Gothic Neo','malgun gothic','맑은 고딕','돋움','dotum';}
 article, aside, hgroup, header, footer, figure, figcaption, nav, section,time, mark, canvas, video, audio, details, summary {display: block;}
 ul {list-style: none;}
+span {display: block;}
 address {font-style: normal;}
 blockquote, q {quotes: none;}
 blockquote:before, blockquote:after,q:before, q:after {content:''; content: none;}
@@ -20,4 +21,4 @@ input, select, textarea, button {vertical-align: middle; margin: 0; padding: 0; 
 input[type=text],input[type=password],input[type=url],textarea,input[type=submit] {-webkit-appearance: none; -moz-appearance: none; appearance: none;}
 input::-ms-clear {display: none;}
 button {border: 0; background: transparent; cursor: pointer;}
-img {max-width: 100%;}
+img {width: 100%;}
